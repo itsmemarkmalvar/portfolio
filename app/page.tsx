@@ -83,6 +83,14 @@ const projects = [
     repo: null as string | null,
     tags: ["React", "Next.js", "AI"],
   },
+  {
+    title: "OJT Attendance System",
+    description:
+      "The PESO platform is an end-to-end digital solution designed to modernize how government agencies manage their internship programs (like SPES and GIP). Moving away from manual paperwork, this platform digitizes the entire lifecycle of an intern—from onboarding and document submission to daily attendance and final evaluation.",
+    url: "https://peso-frontend-fnyv.vercel.app/",
+    repo: null as string | null,
+    tags: ["React", "Next.js", "Web"],
+  },
 ];
 
 const contactLinks = [
